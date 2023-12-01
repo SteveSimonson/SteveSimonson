@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning about all the AI methods possible to enhance work flows.
 - 💞️ I’m looking to collaborate on people who have a vision for software making the lives of users better.
 - 📫 How to reach me is best from at https://stevensimonson.com or https://x.com/stevesimonson
+- 🌋 Working with entreprenuers to help them grow their businesses at https://catalyst88.com
 
 <!---
 SteveSimonson/SteveSimonson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
